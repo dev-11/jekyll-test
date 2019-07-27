@@ -9,6 +9,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  - jekyll-github-metadata
 
 defaults:
   - scope:
