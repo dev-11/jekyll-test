@@ -11,4 +11,4 @@ plugins:
   - jekyll-redirect-from
   
 # Permalinks
-permalink: /:categories/:year/:month/:day/:title
+permalink: /:categories/:year/:month/:day/:title:output_ext
