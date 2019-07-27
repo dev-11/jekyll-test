@@ -9,6 +9,12 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
-  
-permalink: pretty
+
+defaults:
+  - scope:
+      path: ""
+      type: wiki
+    values:
+      layout: default
+      permalink: /:collection/:path
 
