@@ -9,4 +9,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
+  
+permalink: pretty
 
