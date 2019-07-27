@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+remote_theme: thelehhman/texture
 
 # Dependencies
 highlighter:      rouge
