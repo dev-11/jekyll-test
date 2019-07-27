@@ -9,6 +9,4 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-redirect-from
-  
-# Permalinks
-permalink: /:categories/:year/:month/:day/:title:output_ext
+
