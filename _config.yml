@@ -11,11 +11,5 @@ plugins:
   - jekyll-redirect-from
   - jekyll-github-metadata
 
-defaults:
-  - scope:
-      path: ""
-      type: wiki
-    values:
-      layout: default
-      permalink: /:collection/:path
+permalink: pretty
 
